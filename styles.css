@@ -1,0 +1,51 @@
+body {
+            font-family:'Times New Roman', Times, serif;
+            font-size: 16px;
+            color: rgb(0, 0, 0);
+            background-color: #f9f9f9;
+            margin: 20px;
+            padding: 10px;
+        }
+
+        h1, h2 {
+            font-family:'Times New Roman', Times, serif;
+            color:rgb(0, 0, 0);
+            margin-top: 36px;
+        }
+
+
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+
+        a { 
+            color: blue; 
+            text-decoration: underline; 
+        }
+
+        a:hover { 
+            color: darkblue; 
+        }
+
+        a:visited { 
+            color: rgb(93, 103, 252); 
+        }
+
+        a:active { 
+            color: rgb(60, 0, 255); 
+        }
+
+        .date {
+            font-size: 14px;
+            color: #000000;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        .Authority {
+            font-size: 14px;
+            color: #000000;
+            font-weight: bold;
+        }
